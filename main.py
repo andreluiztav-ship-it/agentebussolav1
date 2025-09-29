@@ -231,7 +231,7 @@ Texto 4: [Instrução Detalhada: Ataque diretamente o Inimigo Comum. Use um dado
 Texto 5: [Instrução Detalhada: Foque em como o seu processo, guiado pelo DNA, elimina a complexidade e o medo associados ao Inimigo Comum. Destaque a facilidade e a segurança do tratamento e finalize reforçando a Promessa. CTA que tranquiliza e convida.]
 
 2. Conceitos para Criativos Estáticos
-💡 Guia Rápido: Transformando o Conceito em Imagem com IA
+Guia Rápido: Transformando o Conceito em Imagem com IA
 Para criar a imagem do seu anúncio, você pode usar uma ferramenta de Inteligência Artificial como o Google AI Studio ou outra de sua preferência. É simples:
 
 Acesse a Ferramenta: Por exemplo, https://aistudio.google.com.
